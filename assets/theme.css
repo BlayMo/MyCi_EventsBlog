@@ -1,0 +1,82 @@
+/*
+The MIT License
+
+Copyright 2016 Blas Monerris Alcaraz.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+*//*******************************************************************************
+
+    Proyecto MyCi_EventsBlog
+    Autor:   Blas Monerris Alcaraz
+    Objeto:  Practicas/Aprendizaje
+    Fecha comienzo : 06-06-2016
+    Junio de 2016
+    https://expresoweb.joomla.com
+    mail: expresoweb2015@gmail.com
+
+    PHP7 + Codeigniter 3.0.6
+
+    Gestión de eventos + blogs  + textoacambiar
+
+*******************************************************************************//* 
+    Created on : 08-jun-2016, 11:44:46
+   
+*/
+body{
+  padding: 5em;
+  font-size: 120%;
+/*background-image: url('./images/J0143753.GIF');*/
+}
+
+#calend_body {
+  margin: 0;
+  padding: 5em;
+  font-family: "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+  font-size: 14px;
+}
+
+#script-warning {
+  display: none;
+  background: #eee;
+  border-bottom: 1px solid #ddd;
+  padding: 0 10px;
+  line-height: 40px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 12px;
+  color: red;
+}
+
+#loading {
+  display: none;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#calendar {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 10px;
+}
+
+#update_form {
+  padding: 5em;
+  font-size: 120%;
+}
