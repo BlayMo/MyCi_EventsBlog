@@ -24,7 +24,7 @@ La aplicación consta de dos capas:
 
     - Front. Gestión de eventos, blogs y páginas personales que el usuario registrado puede mantener.
     - Admin. Capa de administración a la que solo el "administrator" puede acceder. Incluye la gestión de Usuarios.
-    - El acceso a la capa de administración se realiza con los datos que por defecto figuran en las tablas de IonAuth, a saber:
+    - El acceso a la capa de administración se realiza con los datos que por defecto figuran en las<br/> tablas de IonAuth, a saber:
 
     mail:      admin@admin.com
     password:  password
