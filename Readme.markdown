@@ -1,13 +1,13 @@
 # Eventos + Blog + Páginas.
 
-Proyecto realizado en PHP7 + Codeigniter 3.0.6, para la gestión de eventos sociales, blogs y páginas personales.
+Proyecto realizado en PHP7 + Codeigniter 3.2.0-dev, para la gestión de eventos sociales, blogs y páginas personales.
 
 El objetivo del proyecto es el Aprendizaje.
 
 Para el  desarrollo del proyecto he utilizado:
 
      XAMPP con PHP7 + MariaDB.
-     Codeigniter 3.0.6.
+     Codeigniter 3.2.0-dev
      Ion_Auth.
      Grocery_CRUD.
      DatetimePicker.
